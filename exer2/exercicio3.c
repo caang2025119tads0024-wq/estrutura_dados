@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <locale.h>
 
-// Faça um programa em C que diga quantos números pares existem de 1 a 1000.
-//Faça um programa em C que diga quantos números ímpares existem de 1 a 1000.
-// Faça um programa em C que diga quantos números primos existem de 1 a 1000.
+//3.Faça um programa em C que diga quantos números pares existem de 1 a 1000.
+//4.Faça um programa em C que diga quantos números ímpares existem de 1 a 1000.
+//5.Faça um programa em C que diga quantos números primos existem de 1 a 1000.
 
 int main() {
     // Configura o console para UTF-8

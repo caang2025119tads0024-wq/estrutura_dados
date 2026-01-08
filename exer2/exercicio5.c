@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/* Faça um programa em C que o usuário insira um
+/* 7.Faça um programa em C que o usuário insira um
  nome de até 10 caracteres e o programa informe quantas letras A ou a tem no nome.
 */
 

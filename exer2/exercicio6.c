@@ -2,8 +2,12 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/* Faça um programa em C que insira
+/* 8.Faça um programa em C que insira
  um vetor de números de 10 posições do tipo inteiro e depois informe quais deles são pares.
+*/
+/* 9.Faça um programa em C que acrescente ao código da questão 7 
+o fato de além de informar em qual posição do vetor estão os pares, 
+também mostre cada número par.
 */
 
 int main() {

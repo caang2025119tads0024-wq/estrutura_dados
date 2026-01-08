@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-// Faça um programa em C que diga quantos números pares existem de 1 a 1000.
-//Faça um programa em C que diga quantos números ímpares existem de 1 a 1000.
-// Faça um programa em C que diga quantos números primos existem de 1 a 1000.
-/* Faça um programa em C que refaça a 3 últimas questões,
+//3.Faça um programa em C que diga quantos números pares existem de 1 a 1000.
+//4.Faça um programa em C que diga quantos números ímpares existem de 1 a 1000.
+//5.Faça um programa em C que diga quantos números primos existem de 1 a 1000.
+/* 6.Faça um programa em C que refaça a 3 últimas questões,
  modificando apenas na quantidade de números,
   pois, o usuário deverá informar a quantidade.
 */
