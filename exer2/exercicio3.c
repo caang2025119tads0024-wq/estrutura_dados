@@ -20,8 +20,10 @@ int main() {
             contador_impares++;
         }   
     }
-    for (int i = 2; i <= 1000; i++) {
+     for (int i = 2; i <= 1000; i++) {
         int divisores = 0;
+        if(i % 2 != 0) {
+        
         for (int j = 1; j <= i; j++) {
             if (i % j == 0) {
                 divisores++;
@@ -29,7 +31,10 @@ int main() {
         }
         if (divisores == 2) {
             contador_primos++;
-        }      
+        }  
+        } else if (i == 2) {
+            contador_primos++;
+        }     
     }
 
     printf("Quantidade de numeros pares de 1 a 1000: %d\n", contador_pares);
